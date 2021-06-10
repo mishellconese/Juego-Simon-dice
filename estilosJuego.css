@@ -77,3 +77,20 @@
         display: none;   /*   esta clase le agrga un display none al elemento de que la llame */
 
       }
+
+
+      .containerTitulo{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+      }
+
+      .container{
+        flex-direction: column;
+        display: flex;
+        width: 100%;
+        height: 100%;
+
+      }
